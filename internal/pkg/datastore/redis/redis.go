@@ -9,5 +9,5 @@ func Get(key string) string {
 }
 
 func Set(key,value string) {
-	return ""
+	return
 }
